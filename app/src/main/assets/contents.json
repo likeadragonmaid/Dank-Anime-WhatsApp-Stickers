@@ -1,0 +1,214 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.karan.StickersDLOHSB",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Pack 1 - Dank Anime Stickers",
+      "publisher": "Brei",
+      "tray_image_file": "pack_1.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://goo.gl/8fQqm8",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["👆"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😡"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["🔫"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["👉"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["👮‍♂️"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["🚬"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["👌"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["🐶"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😡"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😂"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❤️"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😍"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😏"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😑"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["🤩"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["🐈"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🤨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🍔"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😕"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🥺"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["❌"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🇺🇸"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🚬"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🤫"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Pack 2 - Dank Anime Stickers",
+      "publisher": "Brei",
+      "tray_image_file": "pack_2.png",
+      "publisher_email":"",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://goo.gl/8fQqm8",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31.webp",
+          "emojis": ["🥺"]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": ["💔"]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": ["❤️"]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": ["😏"]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": ["☀️"]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": ["😴"]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": ["🙄"]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": ["😳"]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": ["🏳️‍🌈"]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": ["😳"]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": ["⚽️"]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": ["😍"]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": ["📞"]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": ["\uD83E\uDD37\u200D♀️"]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": ["❓"]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": ["\uD83D\uDE08"]
+        }
+      ]
+    }
+  ]
+}
