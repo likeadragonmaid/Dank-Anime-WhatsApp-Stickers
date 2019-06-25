@@ -8,11 +8,12 @@
 
 package org.dynamicsoft.dankanimestickerswa;
 
-import androidx.recyclerview.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 public class StickerPackListItemViewHolder extends RecyclerView.ViewHolder {
 

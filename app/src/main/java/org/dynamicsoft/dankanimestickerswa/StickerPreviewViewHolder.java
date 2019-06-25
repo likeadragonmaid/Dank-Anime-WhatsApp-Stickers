@@ -8,8 +8,9 @@
 
 package org.dynamicsoft.dankanimestickerswa;
 
-import androidx.recyclerview.widget.RecyclerView;
 import android.view.View;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.facebook.drawee.view.SimpleDraweeView;
 
