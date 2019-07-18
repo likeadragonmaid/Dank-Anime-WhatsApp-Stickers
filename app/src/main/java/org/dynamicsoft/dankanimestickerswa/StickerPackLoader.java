@@ -23,13 +23,26 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
-public class StickerPackLoader {
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.LICENSE_AGREENMENT_WEBSITE;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.PRIVACY_POLICY_WEBSITE;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.PUBLISHER_EMAIL;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.PUBLISHER_WEBSITE;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.STICKER_FILE_NAME_IN_QUERY;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.STICKER_PACK_ICON_IN_QUERY;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.STICKER_PACK_NAME_IN_QUERY;
+import static org.dynamicsoft.dankanimestickerswa.StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY;
+
+class StickerPackLoader {
 
     /**
      * Get the list of sticker packs for the sticker content provider
      */
     @NonNull
-    public static ArrayList<StickerPack> fetchStickerPacks(Context context) throws IllegalStateException {
+    static ArrayList<StickerPack> fetchStickerPacks(Context context) throws IllegalStateException {
         final Cursor cursor = context.getContentResolver().query(StickerContentProvider.AUTHORITY_URI, null, null, null, null);
         if (cursor == null) {
             throw new IllegalStateException("could not fetch from content provider, " + BuildConfig.CONTENT_PROVIDER_AUTHORITY);
@@ -78,16 +91,16 @@ public class StickerPackLoader {
         ArrayList<StickerPack> stickerPackList = new ArrayList<>();
         cursor.moveToFirst();
         do {
-            final String identifier = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY));
-            final String name = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.STICKER_PACK_NAME_IN_QUERY));
-            final String publisher = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY));
-            final String trayImage = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.STICKER_PACK_ICON_IN_QUERY));
-            final String androidPlayStoreLink = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY));
-            final String iosAppLink = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY));
-            final String publisherEmail = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.PUBLISHER_EMAIL));
-            final String publisherWebsite = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.PUBLISHER_WEBSITE));
-            final String privacyPolicyWebsite = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.PRIVACY_POLICY_WEBSITE));
-            final String licenseAgreementWebsite = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.LICENSE_AGREENMENT_WEBSITE));
+            final String identifier = cursor.getString(cursor.getColumnIndexOrThrow(STICKER_PACK_IDENTIFIER_IN_QUERY));
+            final String name = cursor.getString(cursor.getColumnIndexOrThrow(STICKER_PACK_NAME_IN_QUERY));
+            final String publisher = cursor.getString(cursor.getColumnIndexOrThrow(STICKER_PACK_PUBLISHER_IN_QUERY));
+            final String trayImage = cursor.getString(cursor.getColumnIndexOrThrow(STICKER_PACK_ICON_IN_QUERY));
+            final String androidPlayStoreLink = cursor.getString(cursor.getColumnIndexOrThrow(ANDROID_APP_DOWNLOAD_LINK_IN_QUERY));
+            final String iosAppLink = cursor.getString(cursor.getColumnIndexOrThrow(IOS_APP_DOWNLOAD_LINK_IN_QUERY));
+            final String publisherEmail = cursor.getString(cursor.getColumnIndexOrThrow(PUBLISHER_EMAIL));
+            final String publisherWebsite = cursor.getString(cursor.getColumnIndexOrThrow(PUBLISHER_WEBSITE));
+            final String privacyPolicyWebsite = cursor.getString(cursor.getColumnIndexOrThrow(PRIVACY_POLICY_WEBSITE));
+            final String licenseAgreementWebsite = cursor.getString(cursor.getColumnIndexOrThrow(LICENSE_AGREENMENT_WEBSITE));
             final StickerPack stickerPack = new StickerPack(identifier, name, publisher, trayImage, publisherEmail, publisherWebsite, privacyPolicyWebsite, licenseAgreementWebsite);
             stickerPack.setAndroidPlayStoreLink(androidPlayStoreLink);
             stickerPack.setIosAppStoreLink(iosAppLink);
@@ -100,14 +113,14 @@ public class StickerPackLoader {
     private static List<Sticker> fetchFromContentProviderForStickers(String identifier, ContentResolver contentResolver) {
         Uri uri = getStickerListUri(identifier);
 
-        final String[] projection = {StickerContentProvider.STICKER_FILE_NAME_IN_QUERY, StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY};
+        final String[] projection = {STICKER_FILE_NAME_IN_QUERY, STICKER_FILE_EMOJI_IN_QUERY};
         final Cursor cursor = contentResolver.query(uri, projection, null, null, null);
         List<Sticker> stickers = new ArrayList<>();
         if (cursor != null && cursor.getCount() > 0) {
             cursor.moveToFirst();
             do {
-                final String name = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.STICKER_FILE_NAME_IN_QUERY));
-                final String emojisConcatenated = cursor.getString(cursor.getColumnIndexOrThrow(StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY));
+                final String name = cursor.getString(cursor.getColumnIndexOrThrow(STICKER_FILE_NAME_IN_QUERY));
+                final String emojisConcatenated = cursor.getString(cursor.getColumnIndexOrThrow(STICKER_FILE_EMOJI_IN_QUERY));
                 stickers.add(new Sticker(name, Arrays.asList(emojisConcatenated.split(","))));
             } while (cursor.moveToNext());
         }
@@ -117,7 +130,7 @@ public class StickerPackLoader {
         return stickers;
     }
 
-    public static byte[] fetchStickerAsset(@NonNull final String identifier, @NonNull final String name, ContentResolver contentResolver) throws IOException {
+    static byte[] fetchStickerAsset(@NonNull final String identifier, @NonNull final String name, ContentResolver contentResolver) throws IOException {
         try (final InputStream inputStream = contentResolver.openInputStream(getStickerAssetUri(identifier, name));
              final ByteArrayOutputStream buffer = new ByteArrayOutputStream()) {
             if (inputStream == null) {
@@ -137,7 +150,7 @@ public class StickerPackLoader {
         return new Uri.Builder().scheme(ContentResolver.SCHEME_CONTENT).authority(BuildConfig.CONTENT_PROVIDER_AUTHORITY).appendPath(StickerContentProvider.STICKERS).appendPath(identifier).build();
     }
 
-    public static Uri getStickerAssetUri(String identifier, String stickerName) {
+    static Uri getStickerAssetUri(String identifier, String stickerName) {
         return new Uri.Builder().scheme(ContentResolver.SCHEME_CONTENT).authority(BuildConfig.CONTENT_PROVIDER_AUTHORITY).appendPath(StickerContentProvider.STICKERS_ASSET).appendPath(identifier).appendPath(stickerName).build();
     }
 }
