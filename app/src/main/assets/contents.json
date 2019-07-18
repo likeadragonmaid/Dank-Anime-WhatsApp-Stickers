@@ -207,6 +207,18 @@
         {
           "image_file": "46.webp",
           "emojis": ["\uD83D\uDE08"]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": ["❤️"]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": ["\uD83D\uDE13"]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": ["\uD83E\uDD28","\uD83E\uDDD0"]
         }
       ]
     }
