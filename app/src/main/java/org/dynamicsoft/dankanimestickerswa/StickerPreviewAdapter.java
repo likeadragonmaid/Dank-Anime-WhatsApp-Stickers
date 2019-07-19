@@ -17,15 +17,13 @@ import androidx.recyclerview.widget.RecyclerView;
 
 public class StickerPreviewAdapter extends RecyclerView.Adapter<StickerPreviewViewHolder> {
 
+    private final int cellSize;
+    private final int errorResource;
+    private final LayoutInflater layoutInflater;
     @NonNull
     private StickerPack stickerPack;
-
-    private final int cellSize;
     private int cellLimit;
     private int cellPadding;
-    private final int errorResource;
-
-    private final LayoutInflater layoutInflater;
 
     StickerPreviewAdapter(
             @NonNull final LayoutInflater layoutInflater,

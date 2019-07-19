@@ -14,19 +14,29 @@ import android.os.Parcelable;
 import java.util.List;
 
 class StickerPack implements Parcelable {
-    String identifier;
-    String name;
-    String publisher;
-    String trayImageFile;
+    public static final Creator<StickerPack> CREATOR = new Creator<StickerPack>() {
+        @Override
+        public StickerPack createFromParcel(Parcel in) {
+            return new StickerPack(in);
+        }
+
+        @Override
+        public StickerPack[] newArray(int size) {
+            return new StickerPack[size];
+        }
+    };
     final String publisherEmail;
     final String publisherWebsite;
     final String privacyPolicyWebsite;
     final String licenseAgreementWebsite;
-
+    String identifier;
+    String name;
+    String publisher;
+    String trayImageFile;
     String iosAppStoreLink;
+    String androidPlayStoreLink;
     private List<Sticker> stickers;
     private long totalSize;
-    String androidPlayStoreLink;
     private boolean isWhitelisted;
 
     StickerPack(String identifier, String name, String publisher, String trayImageFile, String publisherEmail, String publisherWebsite, String privacyPolicyWebsite, String licenseAgreementWebsite) {
@@ -38,14 +48,6 @@ class StickerPack implements Parcelable {
         this.publisherWebsite = publisherWebsite;
         this.privacyPolicyWebsite = privacyPolicyWebsite;
         this.licenseAgreementWebsite = licenseAgreementWebsite;
-    }
-
-    void setIsWhitelisted(boolean isWhitelisted) {
-        this.isWhitelisted = isWhitelisted;
-    }
-
-    boolean getIsWhitelisted() {
-        return isWhitelisted;
     }
 
     protected StickerPack(Parcel in) {
@@ -64,24 +66,12 @@ class StickerPack implements Parcelable {
         isWhitelisted = in.readByte() != 0;
     }
 
-    public static final Creator<StickerPack> CREATOR = new Creator<StickerPack>() {
-        @Override
-        public StickerPack createFromParcel(Parcel in) {
-            return new StickerPack(in);
-        }
+    boolean getIsWhitelisted() {
+        return isWhitelisted;
+    }
 
-        @Override
-        public StickerPack[] newArray(int size) {
-            return new StickerPack[size];
-        }
-    };
-
-    void setStickers(List<Sticker> stickers) {
-        this.stickers = stickers;
-        totalSize = 0;
-        for (Sticker sticker : stickers) {
-            totalSize += sticker.size;
-        }
+    void setIsWhitelisted(boolean isWhitelisted) {
+        this.isWhitelisted = isWhitelisted;
     }
 
     void setAndroidPlayStoreLink(String androidPlayStoreLink) {
@@ -94,6 +84,14 @@ class StickerPack implements Parcelable {
 
     List<Sticker> getStickers() {
         return stickers;
+    }
+
+    void setStickers(List<Sticker> stickers) {
+        this.stickers = stickers;
+        totalSize = 0;
+        for (Sticker sticker : stickers) {
+            totalSize += sticker.size;
+        }
     }
 
     long getTotalSize() {

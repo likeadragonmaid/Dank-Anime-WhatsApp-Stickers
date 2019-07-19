@@ -14,6 +14,17 @@ import android.os.Parcelable;
 import java.util.List;
 
 class Sticker implements Parcelable {
+    public static final Creator<Sticker> CREATOR = new Creator<Sticker>() {
+        @Override
+        public Sticker createFromParcel(Parcel in) {
+            return new Sticker(in);
+        }
+
+        @Override
+        public Sticker[] newArray(int size) {
+            return new Sticker[size];
+        }
+    };
     String imageFileName;
     List<String> emojis;
     long size;
@@ -28,18 +39,6 @@ class Sticker implements Parcelable {
         emojis = in.createStringArrayList();
         size = in.readLong();
     }
-
-    public static final Creator<Sticker> CREATOR = new Creator<Sticker>() {
-        @Override
-        public Sticker createFromParcel(Parcel in) {
-            return new Sticker(in);
-        }
-
-        @Override
-        public Sticker[] newArray(int size) {
-            return new Sticker[size];
-        }
-    };
 
     public void setSize(long size) {
         this.size = size;

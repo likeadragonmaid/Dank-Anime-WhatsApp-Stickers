@@ -29,9 +29,9 @@ import java.util.List;
 
 public class StickerPackListAdapter extends RecyclerView.Adapter<StickerPackListItemViewHolder> {
     @NonNull
-    private List<StickerPack> stickerPacks;
-    @NonNull
     private final OnAddButtonClickedListener onAddButtonClickedListener;
+    @NonNull
+    private List<StickerPack> stickerPacks;
     private int maxNumberOfStickersInARow;
     private int minMarginBetweenImages;
 

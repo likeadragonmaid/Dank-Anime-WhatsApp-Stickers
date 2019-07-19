@@ -8,9 +8,10 @@
 
 package org.dynamicsoft.dankanimestickerswa;
 
-import androidx.annotation.NonNull;
 import android.text.TextUtils;
 import android.util.JsonReader;
+
+import androidx.annotation.NonNull;
 
 import java.io.IOException;
 import java.io.InputStream;

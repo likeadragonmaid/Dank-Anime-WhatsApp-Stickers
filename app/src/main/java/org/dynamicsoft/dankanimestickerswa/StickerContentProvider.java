@@ -50,26 +50,19 @@ public class StickerContentProvider extends ContentProvider {
     public static final String STICKER_FILE_NAME_IN_QUERY = "sticker_file_name";
     public static final String STICKER_FILE_EMOJI_IN_QUERY = "sticker_emoji";
     public static final String CONTENT_FILE_NAME = "contents.json";
-
-    public static Uri AUTHORITY_URI = new Uri.Builder().scheme(ContentResolver.SCHEME_CONTENT).authority(BuildConfig.CONTENT_PROVIDER_AUTHORITY).appendPath(StickerContentProvider.METADATA).build();
-
+    static final String METADATA = "metadata";
+    static final String STICKERS = "stickers";
+    static final String STICKERS_ASSET = "stickers_asset";
     /**
      * Do not change the values in the UriMatcher because otherwise, WhatsApp will not be able to fetch the stickers from the ContentProvider.
      */
     private static final UriMatcher MATCHER = new UriMatcher(UriMatcher.NO_MATCH);
-    static final String METADATA = "metadata";
     private static final int METADATA_CODE = 1;
-
     private static final int METADATA_CODE_FOR_SINGLE_PACK = 2;
-
-    static final String STICKERS = "stickers";
     private static final int STICKERS_CODE = 3;
-
-    static final String STICKERS_ASSET = "stickers_asset";
     private static final int STICKERS_ASSET_CODE = 4;
-
     private static final int STICKER_PACK_TRAY_ICON_CODE = 5;
-
+    public static Uri AUTHORITY_URI = new Uri.Builder().scheme(ContentResolver.SCHEME_CONTENT).authority(BuildConfig.CONTENT_PROVIDER_AUTHORITY).appendPath(StickerContentProvider.METADATA).build();
     private List<StickerPack> stickerPackList;
 
     @Override

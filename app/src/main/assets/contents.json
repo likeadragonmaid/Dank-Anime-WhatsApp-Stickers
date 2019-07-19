@@ -14,123 +14,183 @@
       "stickers": [
         {
           "image_file": "1.webp",
-          "emojis": ["👆"]
+          "emojis": [
+            "👆"
+          ]
         },
         {
           "image_file": "2.webp",
-          "emojis": ["😡"]
+          "emojis": [
+            "😡"
+          ]
         },
         {
           "image_file": "3.webp",
-          "emojis": ["🔫"]
+          "emojis": [
+            "🔫"
+          ]
         },
         {
           "image_file": "4.webp",
-          "emojis": ["😎"]
+          "emojis": [
+            "😎"
+          ]
         },
         {
           "image_file": "5.webp",
-          "emojis": ["👉"]
+          "emojis": [
+            "👉"
+          ]
         },
         {
           "image_file": "6.webp",
-          "emojis": ["👮‍♂️"]
+          "emojis": [
+            "👮‍♂️"
+          ]
         },
         {
           "image_file": "7.webp",
-          "emojis": ["🚬"]
+          "emojis": [
+            "🚬"
+          ]
         },
         {
           "image_file": "8.webp",
-          "emojis": ["👌"]
+          "emojis": [
+            "👌"
+          ]
         },
         {
           "image_file": "9.webp",
-          "emojis": ["🐶"]
+          "emojis": [
+            "🐶"
+          ]
         },
         {
           "image_file": "10.webp",
-          "emojis": ["😡"]
+          "emojis": [
+            "😡"
+          ]
         },
         {
           "image_file": "11.webp",
-          "emojis": ["😂"]
+          "emojis": [
+            "😂"
+          ]
         },
         {
           "image_file": "12.webp",
-          "emojis": ["😭"]
+          "emojis": [
+            "😭"
+          ]
         },
         {
           "image_file": "13.webp",
-          "emojis": ["❤️"]
+          "emojis": [
+            "❤️"
+          ]
         },
         {
           "image_file": "14.webp",
-          "emojis": ["😍"]
+          "emojis": [
+            "😍"
+          ]
         },
         {
           "image_file": "15.webp",
-          "emojis": ["😏"]
+          "emojis": [
+            "😏"
+          ]
         },
         {
           "image_file": "16.webp",
-          "emojis": ["😑"]
+          "emojis": [
+            "😑"
+          ]
         },
         {
           "image_file": "17.webp",
-          "emojis": ["🤩"]
+          "emojis": [
+            "🤩"
+          ]
         },
         {
           "image_file": "18.webp",
-          "emojis": ["🐈"]
+          "emojis": [
+            "🐈"
+          ]
         },
         {
           "image_file": "19.webp",
-          "emojis": ["🤨"]
+          "emojis": [
+            "🤨"
+          ]
         },
         {
           "image_file": "20.webp",
-          "emojis": ["👎"]
+          "emojis": [
+            "👎"
+          ]
         },
         {
           "image_file": "21.webp",
-          "emojis": ["🍔"]
+          "emojis": [
+            "🍔"
+          ]
         },
         {
           "image_file": "22.webp",
-          "emojis": ["😕"]
+          "emojis": [
+            "😕"
+          ]
         },
         {
           "image_file": "23.webp",
-          "emojis": ["🥺"]
+          "emojis": [
+            "🥺"
+          ]
         },
         {
           "image_file": "24.webp",
-          "emojis": ["❌"]
+          "emojis": [
+            "❌"
+          ]
         },
         {
           "image_file": "25.webp",
-          "emojis": ["🤔"]
+          "emojis": [
+            "🤔"
+          ]
         },
         {
           "image_file": "26.webp",
-          "emojis": ["🤔"]
+          "emojis": [
+            "🤔"
+          ]
         },
         {
           "image_file": "27.webp",
-          "emojis": ["🇺🇸"]
+          "emojis": [
+            "🇺🇸"
+          ]
         },
         {
           "image_file": "28.webp",
-          "emojis": ["😎"]
+          "emojis": [
+            "😎"
+          ]
         },
         {
           "image_file": "29.webp",
-          "emojis": ["🚬"]
+          "emojis": [
+            "🚬"
+          ]
         },
         {
           "image_file": "30.webp",
-          "emojis": ["🤫"]
+          "emojis": [
+            "🤫"
+          ]
         }
       ]
     },
@@ -139,423 +199,617 @@
       "name": "Pack 2 - Dank Anime Stickers",
       "publisher": "Brei",
       "tray_image_file": "pack_2.png",
-      "publisher_email":"",
+      "publisher_email": "",
       "publisher_website": "http://t.me/bourros",
       "privacy_policy_website": "https://tinyurl.com/yxatx7te",
       "license_agreement_website": "",
       "stickers": [
         {
           "image_file": "31.webp",
-          "emojis": ["🥺"]
+          "emojis": [
+            "🥺"
+          ]
         },
         {
           "image_file": "32.webp",
-          "emojis": ["💔"]
+          "emojis": [
+            "💔"
+          ]
         },
         {
           "image_file": "33.webp",
-          "emojis": ["❤️"]
+          "emojis": [
+            "❤️"
+          ]
         },
         {
           "image_file": "34.webp",
-          "emojis": ["😏"]
+          "emojis": [
+            "😏"
+          ]
         },
         {
           "image_file": "35.webp",
-          "emojis": ["☀️"]
+          "emojis": [
+            "☀️"
+          ]
         },
         {
           "image_file": "36.webp",
-          "emojis": ["😴"]
+          "emojis": [
+            "😴"
+          ]
         },
         {
           "image_file": "37.webp",
-          "emojis": ["🙄"]
+          "emojis": [
+            "🙄"
+          ]
         },
         {
           "image_file": "38.webp",
-          "emojis": ["😳"]
+          "emojis": [
+            "😳"
+          ]
         },
         {
           "image_file": "39.webp",
-          "emojis": ["🏳️‍🌈"]
+          "emojis": [
+            "🏳️‍🌈"
+          ]
         },
         {
           "image_file": "40.webp",
-          "emojis": ["😳"]
+          "emojis": [
+            "😳"
+          ]
         },
         {
           "image_file": "41.webp",
-          "emojis": ["⚽️"]
+          "emojis": [
+            "⚽️"
+          ]
         },
         {
           "image_file": "42.webp",
-          "emojis": ["😍"]
+          "emojis": [
+            "😍"
+          ]
         },
         {
           "image_file": "43.webp",
-          "emojis": ["📞"]
+          "emojis": [
+            "📞"
+          ]
         },
         {
           "image_file": "44.webp",
-          "emojis": ["\uD83E\uDD37\u200D♀️"]
+          "emojis": [
+            "\uD83E\uDD37\u200D♀️"
+          ]
         },
         {
           "image_file": "45.webp",
-          "emojis": ["❓"]
+          "emojis": [
+            "❓"
+          ]
         },
         {
           "image_file": "46.webp",
-          "emojis": ["\uD83D\uDE08"]
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
         },
         {
           "image_file": "47.webp",
-          "emojis": ["❤️"]
+          "emojis": [
+            "❤️"
+          ]
         },
         {
           "image_file": "48.webp",
-          "emojis": ["\uD83D\uDE13"]
+          "emojis": [
+            "\uD83D\uDE13"
+          ]
         },
         {
           "image_file": "49.webp",
-          "emojis": ["\uD83E\uDD28","\uD83E\uDDD0"]
+          "emojis": [
+            "\uD83E\uDD28",
+            "\uD83E\uDDD0"
+          ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "3",
       "name": "Pack 3 - Isekai Quartet Stickers",
       "publisher": "Brei",
       "tray_image_file": "pack_3.png",
-      "publisher_email":"",
+      "publisher_email": "",
       "publisher_website": "http://t.me/bourros",
       "privacy_policy_website": "https://tinyurl.com/yxatx7te",
       "license_agreement_website": "",
       "stickers": [
         {
           "image_file": "1.webp",
-          "emojis": ["\uD83D\uDE25"]
+          "emojis": [
+            "\uD83D\uDE25"
+          ]
         },
         {
           "image_file": "2.webp",
-          "emojis": ["\uD83D\uDE49"]
+          "emojis": [
+            "\uD83D\uDE49"
+          ]
         },
         {
           "image_file": "3.webp",
-          "emojis": ["\uD83E\uDD28"]
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
         },
         {
           "image_file": "4.webp",
-          "emojis": ["\uD83D\uDE31"]
+          "emojis": [
+            "\uD83D\uDE31"
+          ]
         },
         {
           "image_file": "5.webp",
-          "emojis": ["\uD83D\uDC7F️"]
+          "emojis": [
+            "\uD83D\uDC7F️"
+          ]
         },
         {
           "image_file": "6.webp",
-          "emojis": ["\uD83D\uDC7F"]
+          "emojis": [
+            "\uD83D\uDC7F"
+          ]
         },
         {
           "image_file": "7.webp",
-          "emojis": ["\uD83D\uDE12"]
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
         },
         {
           "image_file": "8.webp",
-          "emojis": ["\uD83D\uDE2D"]
+          "emojis": [
+            "\uD83D\uDE2D"
+          ]
         },
         {
           "image_file": "9.webp",
-          "emojis": ["\uD83D\uDE20"]
+          "emojis": [
+            "\uD83D\uDE20"
+          ]
         },
         {
           "image_file": "10.webp",
-          "emojis": ["\uD83D\uDE0A"]
+          "emojis": [
+            "\uD83D\uDE0A"
+          ]
         },
         {
           "image_file": "11.webp",
-          "emojis": ["\uD83D\uDE33"]
+          "emojis": [
+            "\uD83D\uDE33"
+          ]
         },
         {
           "image_file": "12.webp",
-          "emojis": ["\uD83E\uDD2C"]
+          "emojis": [
+            "\uD83E\uDD2C"
+          ]
         },
         {
           "image_file": "13.webp",
-          "emojis": ["\uD83D\uDCAA"]
+          "emojis": [
+            "\uD83D\uDCAA"
+          ]
         },
         {
           "image_file": "14.webp",
-          "emojis": ["\uD83D\uDE36"]
+          "emojis": [
+            "\uD83D\uDE36"
+          ]
         },
         {
           "image_file": "15.webp",
-          "emojis": ["\uD83D\uDE22"]
+          "emojis": [
+            "\uD83D\uDE22"
+          ]
         },
         {
           "image_file": "16.webp",
-          "emojis": ["\uD83D\uDE07"]
+          "emojis": [
+            "\uD83D\uDE07"
+          ]
         },
         {
           "image_file": "17.webp",
-          "emojis": ["\uD83D\uDE12️"]
+          "emojis": [
+            "\uD83D\uDE12️"
+          ]
         },
         {
           "image_file": "18.webp",
-          "emojis": ["\uD83D\uDE21"]
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
         },
         {
           "image_file": "19.webp",
-          "emojis": ["😊"]
+          "emojis": [
+            "😊"
+          ]
         },
         {
           "image_file": "20.webp",
-          "emojis": ["😚"]
+          "emojis": [
+            "😚"
+          ]
         },
         {
           "image_file": "21.webp",
-          "emojis": ["😤"]
+          "emojis": [
+            "😤"
+          ]
         },
         {
           "image_file": "22.webp",
-          "emojis": ["😭"]
+          "emojis": [
+            "😭"
+          ]
         },
         {
           "image_file": "23.webp",
-          "emojis": ["😑"]
+          "emojis": [
+            "😑"
+          ]
         },
         {
           "image_file": "24.webp",
-          "emojis": ["😄"]
+          "emojis": [
+            "😄"
+          ]
         },
         {
           "image_file": "25.webp",
-          "emojis": ["😖"]
+          "emojis": [
+            "😖"
+          ]
         },
         {
           "image_file": "26.webp",
-          "emojis": ["😍"]
+          "emojis": [
+            "😍"
+          ]
         },
         {
           "image_file": "27.webp",
-          "emojis": ["🤔"]
+          "emojis": [
+            "🤔"
+          ]
         },
         {
           "image_file": "28.webp",
-          "emojis": ["😍"]
+          "emojis": [
+            "😍"
+          ]
         },
         {
           "image_file": "29.webp",
-          "emojis": ["😎"]
+          "emojis": [
+            "😎"
+          ]
         },
         {
           "image_file": "30.webp",
-          "emojis": ["😨"]
+          "emojis": [
+            "😨"
+          ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "4",
       "name": "Pack 4 - Isekai Quartet Stickers",
       "publisher": "Brei",
       "tray_image_file": "pack_4.png",
-      "publisher_email":"",
+      "publisher_email": "",
       "publisher_website": "http://t.me/bourros",
       "privacy_policy_website": "https://tinyurl.com/yxatx7te",
       "license_agreement_website": "",
       "stickers": [
         {
           "image_file": "31.webp",
-          "emojis": ["\uD83D\uDE25"]
+          "emojis": [
+            "\uD83D\uDE25"
+          ]
         },
         {
           "image_file": "32.webp",
-          "emojis": ["\uD83E\uDD14"]
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
         },
         {
           "image_file": "33.webp",
-          "emojis": ["\uD83D\uDE31"]
+          "emojis": [
+            "\uD83D\uDE31"
+          ]
         },
         {
           "image_file": "34.webp",
-          "emojis": ["\uD83E\uDD14"]
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
         },
         {
           "image_file": "35.webp",
-          "emojis": ["\uD83D\uDE13"]
+          "emojis": [
+            "\uD83D\uDE13"
+          ]
         },
         {
           "image_file": "36.webp",
-          "emojis": ["\uD83D\uDC81\u200D♀️"]
+          "emojis": [
+            "\uD83D\uDC81\u200D♀️"
+          ]
         },
         {
           "image_file": "37.webp",
-          "emojis": ["\uD83E\uDD2D"]
+          "emojis": [
+            "\uD83E\uDD2D"
+          ]
         },
         {
           "image_file": "38.webp",
-          "emojis": ["\uD83D\uDE08"]
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
         },
         {
           "image_file": "39.webp",
-          "emojis": ["\uD83D\uDC7F"]
+          "emojis": [
+            "\uD83D\uDC7F"
+          ]
         },
         {
           "image_file": "40.webp",
-          "emojis": ["\uD83D\uDE0D"]
+          "emojis": [
+            "\uD83D\uDE0D"
+          ]
         },
         {
           "image_file": "41.webp",
-          "emojis": ["\uD83D\uDE33"]
+          "emojis": [
+            "\uD83D\uDE33"
+          ]
         },
         {
           "image_file": "42.webp",
-          "emojis": ["\uD83D\uDE06"]
+          "emojis": [
+            "\uD83D\uDE06"
+          ]
         },
         {
           "image_file": "43.webp",
-          "emojis": ["\uD83D\uDE0D"]
+          "emojis": [
+            "\uD83D\uDE0D"
+          ]
         },
         {
           "image_file": "44.webp",
-          "emojis": ["\uD83D\uDE23️"]
+          "emojis": [
+            "\uD83D\uDE23️"
+          ]
         },
         {
           "image_file": "45.webp",
-          "emojis": ["\uD83D\uDE0F"]
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
         },
         {
           "image_file": "46.webp",
-          "emojis": ["\uD83D\uDE0D"]
+          "emojis": [
+            "\uD83D\uDE0D"
+          ]
         },
         {
           "image_file": "47.webp",
-          "emojis": ["\uD83D\uDE08"]
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
         },
         {
           "image_file": "48.webp",
-          "emojis": ["\uD83D\uDE06"]
+          "emojis": [
+            "\uD83D\uDE06"
+          ]
         },
         {
           "image_file": "49.webp",
-          "emojis": ["😱"]
+          "emojis": [
+            "😱"
+          ]
         },
         {
           "image_file": "50.webp",
-          "emojis": ["😠"]
+          "emojis": [
+            "😠"
+          ]
         },
         {
           "image_file": "51.webp",
-          "emojis": ["🧐"]
+          "emojis": [
+            "🧐"
+          ]
         },
         {
           "image_file": "52.webp",
-          "emojis": ["💁‍♂️"]
+          "emojis": [
+            "💁‍♂️"
+          ]
         },
         {
           "image_file": "53.webp",
-          "emojis": ["😈"]
+          "emojis": [
+            "😈"
+          ]
         },
         {
           "image_file": "54.webp",
-          "emojis": ["😡"]
+          "emojis": [
+            "😡"
+          ]
         },
         {
           "image_file": "55.webp",
-          "emojis": ["🤔"]
+          "emojis": [
+            "🤔"
+          ]
         },
         {
           "image_file": "56.webp",
-          "emojis": ["😓"]
+          "emojis": [
+            "😓"
+          ]
         },
         {
           "image_file": "57.webp",
-          "emojis": ["😑"]
+          "emojis": [
+            "😑"
+          ]
         },
         {
           "image_file": "58.webp",
-          "emojis": ["😶"]
+          "emojis": [
+            "😶"
+          ]
         },
         {
           "image_file": "59.webp",
-          "emojis": ["🚬"]
+          "emojis": [
+            "🚬"
+          ]
         },
         {
           "image_file": "60.webp",
-          "emojis": ["😨"]
+          "emojis": [
+            "😨"
+          ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "5",
       "name": "Pack 5 - Isekai Quartet Stickers",
       "publisher": "Brei",
       "tray_image_file": "pack_5.png",
-      "publisher_email":"",
+      "publisher_email": "",
       "publisher_website": "http://t.me/bourros",
       "privacy_policy_website": "https://tinyurl.com/yxatx7te",
       "license_agreement_website": "",
       "stickers": [
         {
           "image_file": "61.webp",
-          "emojis": ["\uD83D\uDC40"]
+          "emojis": [
+            "\uD83D\uDC40"
+          ]
         },
         {
           "image_file": "62.webp",
-          "emojis": ["\uD83D\uDC4A"]
+          "emojis": [
+            "\uD83D\uDC4A"
+          ]
         },
         {
           "image_file": "63.webp",
-          "emojis": ["\uD83D\uDC4D"]
+          "emojis": [
+            "\uD83D\uDC4D"
+          ]
         },
         {
           "image_file": "64.webp",
-          "emojis": ["\uD83E\uDD37\u200D♂️"]
+          "emojis": [
+            "\uD83E\uDD37\u200D♂️"
+          ]
         },
         {
           "image_file": "65.webp",
-          "emojis": ["\uD83D\uDC48"]
+          "emojis": [
+            "\uD83D\uDC48"
+          ]
         },
         {
           "image_file": "66.webp",
-          "emojis": ["\uD83E\uDD14"]
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
         },
         {
           "image_file": "67.webp",
-          "emojis": ["\uD83E\uDD28"]
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
         },
         {
           "image_file": "68.webp",
-          "emojis": ["\uD83D\uDE04"]
+          "emojis": [
+            "\uD83D\uDE04"
+          ]
         },
         {
           "image_file": "69.webp",
-          "emojis": ["\uD83D\uDE0A"]
+          "emojis": [
+            "\uD83D\uDE0A"
+          ]
         },
         {
           "image_file": "70.webp",
-          "emojis": ["\uD83D\uDE12"]
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
         },
         {
           "image_file": "71.webp",
-          "emojis": ["\uD83D\uDE12"]
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
         },
         {
           "image_file": "72.webp",
-          "emojis": ["\uD83D\uDE08"]
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
         },
         {
           "image_file": "73.webp",
-          "emojis": ["\uD83E\uDD28"]
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
         },
         {
           "image_file": "74.webp",
-          "emojis": ["\uD83D\uDE10️"]
+          "emojis": [
+            "\uD83D\uDE10️"
+          ]
         },
         {
           "image_file": "75.webp",
-          "emojis": ["\uD83E\uDD14"]
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
         },
         {
           "image_file": "76.webp",
-          "emojis": ["\uD83D\uDE0F"]
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
         }
       ]
     }
