@@ -1568,6 +1568,162 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "11",
+      "name": "Pack 11 - Commie Girls",
+      "publisher": "Brei",
+      "tray_image_file": "pack_11.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDDE3"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83D\uDE03"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83E\uDD7A"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "✊"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83E\uDD1B"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83D\uDE0E"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDC82\u200D♀️"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83D\uDE22"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDCD6"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDCD6"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDCD6"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDCD5"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83D\uDCD5"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83E\uDD4A"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDCD5"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83D\uDC76"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83C\uDF7E"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "\uD83D\uDCB0"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "✊"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "\uD83D\uDCD6"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "✊"
+          ]
+        }
+      ]
     }
   ]
 }
