@@ -9,7 +9,7 @@ Packs included:
 * Monogatari
 * Commie Girls (Commie memes)
 * Komi Can't Communicate
-* Angry Anime (Random angry memes)
+* Rage Anime (Random rage memes)
 * Tsurezure Children
 * Steins;Gate
 
