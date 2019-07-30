@@ -1,4 +1,20 @@
 # Dank Anime WhatsApp Stickers
+Dank Anime stickers for WhatsApp Messenger. No advertisements or tracking.
+
+Packs included:
+
+* Dank Anime (Random memes)
+* Isekai Quartet
+* Manga Reactions
+* Monogatari
+* Commie Girls (Commie memes)
+* Komi Can't Communicate
+* Angry Anime (Random angry memes)
+* Tsurezure Children
+* Steins;Gate
+
+Total no. of stickers: 600
+
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height=
 "80">](https://play.google.com/store/apps/details?id=com.dynamicsoft.dankanimestickerswa)
 <p align="center">
@@ -16,4 +32,4 @@
 
 Dank Anime stickers for WhatsApp Messenger. The sticker images are owned by [Brei](https://t.me/bourros). This is just an experiment and I don't use WhatsApp messenger myself. I may or may not update this project. 
 
-If I am infringing copyright of any animated TV show or movie, please contact me to get the project removed.
+If I am infringing copyright of any animated TV show or movie, please contact me to get the sticker pack removed.
