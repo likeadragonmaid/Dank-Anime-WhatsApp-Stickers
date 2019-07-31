@@ -30,6 +30,6 @@ Total no. of stickers: 600
   <img src="https://lh3.googleusercontent.com/qHO9kcO1wapaUx_UEMM3QgdswpqLvLKmCJccukNATTijHux_HvWdBLxpPlxRmrgczzUd=w1872-h923">
 </p>
 
-Dank Anime stickers for WhatsApp Messenger. Many sticker images are originally edited by [Brei](https://t.me/bourros) from various Anime shows for using them as sticker packs on Telegram messenger and later by me to let people use them on WhatsApp Messenger as well. This is just an experiment and I don't use WhatsApp Messenger myself. I may or may not update this project. 
+Dank Anime stickers for WhatsApp Messenger. Many sticker images are originally edited by [Brei](https://t.me/bourros) from various Anime shows for using them as sticker packs on Telegram messenger and later by me to let people use them on WhatsApp Messenger as well. This is just an experiment and I don't use WhatsApp Messenger myself. I may or may not update this project. You may not sell them anywhere and also not distribute them in Japan to avoid copyright issues.
 
 If I am infringing copyright of any animated TV show or movie, please contact me to get the sticker pack(s) removed.
