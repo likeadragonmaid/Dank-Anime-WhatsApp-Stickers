@@ -1,0 +1,3881 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Pack 1 - Dank Anime",
+      "publisher": "Brei",
+      "tray_image_file": "pack_1.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "👆"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🔫"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😎"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "👉"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "👮‍♂️"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "🚬"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "👌"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😏"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😑"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🤩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🐈"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🤨"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "👎"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🍔"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😕"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🥺"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "❌"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🇺🇸"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😎"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🚬"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🤫"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Pack 2 - Dank Anime",
+      "publisher": "Brei",
+      "tray_image_file": "pack_2.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "🥺"
+          ]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": [
+            "😏"
+          ]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": [
+            "☀️"
+          ]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": [
+            "😴"
+          ]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "🙄"
+          ]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": [
+            "😳"
+          ]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": [
+            "🏳️‍🌈"
+          ]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": [
+            "😳"
+          ]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": [
+            "⚽️"
+          ]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": [
+            "📞"
+          ]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": [
+            "\uD83E\uDD37\u200D♀️"
+          ]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": [
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": [
+            "\uD83D\uDE13"
+          ]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": [
+            "\uD83E\uDD28",
+            "\uD83E\uDDD0"
+          ]
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": [
+            "\uD83E\uDD13"
+          ]
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Pack 3 - Isekai Quartet",
+      "publisher": "Brei",
+      "tray_image_file": "pack_3.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDE25"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDE49"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83D\uDE31"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83D\uDC7F️"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83D\uDC7F"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83D\uDE2D"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83D\uDE20"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDE0A"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83D\uDE33"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83E\uDD2C"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDCAA"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDE36"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDE22"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83D\uDE07"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83D\uDE12️"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😊"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😚"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "😤"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😑"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😖"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "😎"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "😨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Pack 4 - Isekai Quartet",
+      "publisher": "Brei",
+      "tray_image_file": "pack_4.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "\uD83D\uDE25"
+          ]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "\uD83D\uDE31"
+          ]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": [
+            "\uD83D\uDE13"
+          ]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": [
+            "\uD83D\uDC81\u200D♀️"
+          ]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "\uD83E\uDD2D"
+          ]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": [
+            "\uD83D\uDC7F"
+          ]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": [
+            "\uD83D\uDE0D"
+          ]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": [
+            "\uD83D\uDE33"
+          ]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": [
+            "\uD83D\uDE06"
+          ]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": [
+            "\uD83D\uDE0D"
+          ]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": [
+            "\uD83D\uDE23️"
+          ]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": [
+            "\uD83D\uDE0D"
+          ]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": [
+            "\uD83D\uDE06"
+          ]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": [
+            "😠"
+          ]
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": [
+            "🧐"
+          ]
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": [
+            "💁‍♂️"
+          ]
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": [
+            "😈"
+          ]
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "55.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "56.webp",
+          "emojis": [
+            "😓"
+          ]
+        },
+        {
+          "image_file": "57.webp",
+          "emojis": [
+            "😑"
+          ]
+        },
+        {
+          "image_file": "58.webp",
+          "emojis": [
+            "😶"
+          ]
+        },
+        {
+          "image_file": "59.webp",
+          "emojis": [
+            "🚬"
+          ]
+        },
+        {
+          "image_file": "60.webp",
+          "emojis": [
+            "😨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Pack 5 - Isekai Quartet",
+      "publisher": "Brei",
+      "tray_image_file": "pack_5.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "61.webp",
+          "emojis": [
+            "\uD83D\uDC40"
+          ]
+        },
+        {
+          "image_file": "62.webp",
+          "emojis": [
+            "\uD83D\uDC4A"
+          ]
+        },
+        {
+          "image_file": "63.webp",
+          "emojis": [
+            "\uD83D\uDC4D"
+          ]
+        },
+        {
+          "image_file": "64.webp",
+          "emojis": [
+            "\uD83E\uDD37\u200D♂️"
+          ]
+        },
+        {
+          "image_file": "65.webp",
+          "emojis": [
+            "\uD83D\uDC48"
+          ]
+        },
+        {
+          "image_file": "66.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "67.webp",
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
+        },
+        {
+          "image_file": "68.webp",
+          "emojis": [
+            "\uD83D\uDE04"
+          ]
+        },
+        {
+          "image_file": "69.webp",
+          "emojis": [
+            "\uD83D\uDE0A"
+          ]
+        },
+        {
+          "image_file": "70.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "71.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "72.webp",
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
+        },
+        {
+          "image_file": "73.webp",
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
+        },
+        {
+          "image_file": "74.webp",
+          "emojis": [
+            "\uD83D\uDE10️"
+          ]
+        },
+        {
+          "image_file": "75.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "76.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Pack 6 - Manga Reactions",
+      "publisher": "Brei",
+      "tray_image_file": "pack_6.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDE10"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "❗️"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83D\uDE13"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83D\uDE20"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83D\uDE2D"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83E\uDD22"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83E\uDD2E"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83C\uDF75"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDE2C"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDE10️"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDE10"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83D\uDC7B"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Pack 7 - Monogatari",
+      "publisher": "Brei",
+      "tray_image_file": "pack_7.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDE20"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83D\uDE20"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83D\uDE33"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "️\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83D\uDE22"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83D\uDE4C"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83D\uDE31"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDC40"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83E\uDD74"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDE30"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDE28"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "️\uD83E\uDD27"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDE44"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "️\uD83E\uDD26\u200D♂"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83D\uDE44"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDE28"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83E\uDDB7"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "\uD83E\uDDB5"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "\uD83D\uDC48,\uD83D\uDC46"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "\uD83D\uDE25"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "\uD83E\uDD2C"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "\uD83D\uDE31"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "\uD83D\uDE2C"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "\uD83D\uDE11"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "\uD83D\uDE14"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Pack 8 - Monogatari",
+      "publisher": "Brei",
+      "tray_image_file": "pack_8.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "\uD83E\uDD2D"
+          ]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": [
+            "\uD83D\uDE22️"
+          ]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": [
+            "\uD83D\uDE09"
+          ]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": [
+            "\uD83D\uDE3F"
+          ]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "\uD83D\uDE4F"
+          ]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": [
+            "\uD83D\uDE28"
+          ]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": [
+            "\uD83D\uDE3C"
+          ]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": [
+            "\uD83E\uDD26\u200D♀️"
+          ]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": [
+            "\uD83D\uDE15"
+          ]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": [
+            "\uD83D\uDE06️"
+          ]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": [
+            "\uD83D\uDCAA"
+          ]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": [
+            "\uD83E\uDD29"
+          ]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": [
+            "\uD83D\uDC41"
+          ]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": [
+            "\uD83D\uDE2C"
+          ]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": [
+            "\uD83D\uDC4C"
+          ]
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": [
+            "\uD83E\uDD29"
+          ]
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": [
+            "\uD83D\uDC40"
+          ]
+        },
+        {
+          "image_file": "55.webp",
+          "emojis": [
+            "\uD83D\uDC47"
+          ]
+        },
+        {
+          "image_file": "56.webp",
+          "emojis": [
+            "\uD83E\uDD2D"
+          ]
+        },
+        {
+          "image_file": "57.webp",
+          "emojis": [
+            "\uD83D\uDE06"
+          ]
+        },
+        {
+          "image_file": "58.webp",
+          "emojis": [
+            "\uD83D\uDC47"
+          ]
+        },
+        {
+          "image_file": "59.webp",
+          "emojis": [
+            "☺️"
+          ]
+        },
+        {
+          "image_file": "60.webp",
+          "emojis": [
+            "\uD83D\uDE09"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Pack 9 - Monogatari",
+      "publisher": "Brei",
+      "tray_image_file": "pack_9.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "61.webp",
+          "emojis": [
+            "\uD83D\uDE4C"
+          ]
+        },
+        {
+          "image_file": "62.webp",
+          "emojis": [
+            "\uD83C\uDF7C"
+          ]
+        },
+        {
+          "image_file": "63.webp",
+          "emojis": [
+            "\uD83D\uDE0B"
+          ]
+        },
+        {
+          "image_file": "64.webp",
+          "emojis": [
+            "\uD83D\uDE09"
+          ]
+        },
+        {
+          "image_file": "65.webp",
+          "emojis": [
+            "\uD83D\uDE48"
+          ]
+        },
+        {
+          "image_file": "66.webp",
+          "emojis": [
+            "\uD83D\uDE1C"
+          ]
+        },
+        {
+          "image_file": "67.webp",
+          "emojis": [
+            "😦"
+          ]
+        },
+        {
+          "image_file": "68.webp",
+          "emojis": [
+            "\uD83E\uDD7A"
+          ]
+        },
+        {
+          "image_file": "69.webp",
+          "emojis": [
+            "\uD83D\uDE20"
+          ]
+        },
+        {
+          "image_file": "70.webp",
+          "emojis": [
+            "\uD83D\uDE27"
+          ]
+        },
+        {
+          "image_file": "71.webp",
+          "emojis": [
+            "\uD83D\uDD2A"
+          ]
+        },
+        {
+          "image_file": "72.webp",
+          "emojis": [
+            "\uD83D\uDE2E"
+          ]
+        },
+        {
+          "image_file": "73.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "74.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "75.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        },
+        {
+          "image_file": "76.webp",
+          "emojis": [
+            "\uD83D\uDE17"
+          ]
+        },
+        {
+          "image_file": "77.webp",
+          "emojis": [
+            "☺️"
+          ]
+        },
+        {
+          "image_file": "78.webp",
+          "emojis": [
+            "✊,✊"
+          ]
+        },
+        {
+          "image_file": "79.webp",
+          "emojis": [
+            "\uD83D\uDE08"
+          ]
+        },
+        {
+          "image_file": "80.webp",
+          "emojis": [
+            "\uD83D\uDE10"
+          ]
+        },
+        {
+          "image_file": "81.webp",
+          "emojis": [
+            "\uD83D\uDE35"
+          ]
+        },
+        {
+          "image_file": "82.webp",
+          "emojis": [
+            "\uD83D\uDE33"
+          ]
+        },
+        {
+          "image_file": "83.webp",
+          "emojis": [
+            "\uD83D\uDE35"
+          ]
+        },
+        {
+          "image_file": "84.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        },
+        {
+          "image_file": "85.webp",
+          "emojis": [
+            "\uD83D\uDCAA"
+          ]
+        },
+        {
+          "image_file": "86.webp",
+          "emojis": [
+            "\uD83D\uDC47"
+          ]
+        },
+        {
+          "image_file": "87.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        },
+        {
+          "image_file": "88.webp",
+          "emojis": [
+            "\uD83D\uDE06"
+          ]
+        },
+        {
+          "image_file": "89.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "90.webp",
+          "emojis": [
+            "❌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Pack 10 - Monogatari",
+      "publisher": "Brei",
+      "tray_image_file": "pack_10.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "91.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "92.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        },
+        {
+          "image_file": "93.webp",
+          "emojis": [
+            "\uD83D\uDCB4"
+          ]
+        },
+        {
+          "image_file": "94.webp",
+          "emojis": [
+            "\uD83D\uDC49"
+          ]
+        },
+        {
+          "image_file": "95.webp",
+          "emojis": [
+            "\uD83D\uDE12"
+          ]
+        },
+        {
+          "image_file": "96.webp",
+          "emojis": [
+            "\uD83D\uDE01"
+          ]
+        },
+        {
+          "image_file": "97.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "98.webp",
+          "emojis": [
+            "\uD83D\uDE0F"
+          ]
+        },
+        {
+          "image_file": "99.webp",
+          "emojis": [
+            "\uD83D\uDE0D"
+          ]
+        },
+        {
+          "image_file": "100.webp",
+          "emojis": [
+            "\uD83D\uDE0D"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Pack 11 - Commie Girls",
+      "publisher": "Brei",
+      "tray_image_file": "pack_11.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDDE3"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83D\uDE03"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83E\uDD14"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83E\uDD7A"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83E\uDD28"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "✊"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83E\uDD1B"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83D\uDE0E"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDC82\u200D♀️"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83D\uDE22"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDCD6"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDCD6"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDCD6"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDCD5"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83D\uDCD5"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83E\uDD4A"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDCD5"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83D\uDC76"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83C\uDF7E"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "\uD83D\uDCB0"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "✊"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "\uD83D\uDCD6"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "✊"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Pack 12 - Komi Can't Communicate",
+      "publisher": "Oda Tomohito",
+      "tray_image_file": "pack_12.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Pack 13 - Komi Can't Communicate",
+      "publisher": "Oda Tomohito",
+      "tray_image_file": "pack_13.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "55.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "56.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "57.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "58.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "59.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "60.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Pack 14 - Komi Can't Communicate",
+      "publisher": "Oda Tomohito",
+      "tray_image_file": "pack_14.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "61.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "62.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "63.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "64.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "65.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "66.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "67.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "68.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "69.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "70.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "71.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "72.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "73.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "74.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "75.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "76.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "77.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "78.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "79.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "80.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "81.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "82.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "83.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "84.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "85.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "86.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "87.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "88.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "89.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "90.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": "Pack 15 - Komi Can't Communicate",
+      "publisher": "Oda Tomohito",
+      "tray_image_file": "pack_15.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "91.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "92.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "93.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "94.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "95.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "96.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "97.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "98.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "99.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "100.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "101.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "102.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "103.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "104.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "105.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "106.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "107.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "108.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "109.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "110.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "111.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "112.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "113.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "114.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "115.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "116.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "117.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "118.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "119.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "120.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    },{
+      "identifier": "16",
+      "name": "Pack 16 - Rage Anime",
+      "publisher": "Brei",
+      "tray_image_file": "pack_16.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        }
+      ]
+    },{
+      "identifier": "17",
+      "name": "Pack 17 - Rage Anime",
+      "publisher": "Brei",
+      "tray_image_file": "pack_17.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": [
+            "\uD83D\uDE21"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "18",
+      "name": "Pack 18 - Tsurezure Children",
+      "publisher": "Brei",
+      "tray_image_file": "pack_18.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "19",
+      "name": "Pack 19 - Tsurezure Children",
+      "publisher": "Brei",
+      "tray_image_file": "pack_19.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "55.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "56.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "57.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "58.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "59.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "60.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "Pack 20 - Tsurezure Children",
+      "publisher": "Brei",
+      "tray_image_file": "pack_20.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "61.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "62.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "63.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "64.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "65.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "66.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "67.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "68.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "69.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "70.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "71.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "72.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "73.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "74.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "75.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "76.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "77.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "78.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "79.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "80.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "81.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "82.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "21",
+      "name": "Pack 21 - Steins;Gate",
+      "publisher": "Brei",
+      "tray_image_file": "pack_21.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "22",
+      "name": "Pack 22 - Steins;Gate",
+      "publisher": "Brei",
+      "tray_image_file": "pack_22.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "55.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "56.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "57.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "58.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "59.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "60.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "23",
+      "name": "Pack 23 - Steins;Gate",
+      "publisher": "Brei",
+      "tray_image_file": "pack_23.png",
+      "publisher_email": "",
+      "publisher_website": "http://t.me/bourros",
+      "privacy_policy_website": "https://tinyurl.com/yxatx7te",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "61.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "62.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "63.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "64.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "65.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "66.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "67.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "68.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "69.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "70.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "71.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "72.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "73.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "74.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "75.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        },
+        {
+          "image_file": "76.webp",
+          "emojis": [
+            "\uD83D\uDDE8"
+          ]
+        }
+      ]
+    }
+  ]
+}
